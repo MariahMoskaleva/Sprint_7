@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_wrapper.py:33 POST http://qa-scooter.praktikum-services.ru/api/v1/courier/login
+[32mINFO    [0m root:api_wrapper.py:35 Request: {'login': 'blxyzxaprd', 'password': 'wwdyyytcpc'}
+[32mINFO    [0m root:api_wrapper.py:36 Response [404]: {"code":404,"message":"Учетная запись не найдена"}

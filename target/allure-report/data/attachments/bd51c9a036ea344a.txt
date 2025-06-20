@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_wrapper.py:33 POST http://qa-scooter.praktikum-services.ru/api/v1/courier
+[32mINFO    [0m root:api_wrapper.py:35 Request: {'login': 'utzeehhgur', 'firstName': 'fftsnfrgql'}
+[32mINFO    [0m root:api_wrapper.py:36 Response [400]: {"code":400,"message":"Недостаточно данных для создания учетной записи"}

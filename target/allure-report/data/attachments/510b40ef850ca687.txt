@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_wrapper.py:33 POST http://qa-scooter.praktikum-services.ru/api/v1/orders
+[32mINFO    [0m root:api_wrapper.py:35 Request: {'firstName': 'Иван', 'lastName': 'Иванов', 'address': 'ул. Пушкина, д. 1', 'metroStation': 7, 'phone': '+79999999999', 'rentTime': 6, 'deliveryDate': '2025-06-20', 'comment': 'Тест заказ', 'color': ['GREY']}
+[32mINFO    [0m root:api_wrapper.py:36 Response [201]: {"track":912019}
