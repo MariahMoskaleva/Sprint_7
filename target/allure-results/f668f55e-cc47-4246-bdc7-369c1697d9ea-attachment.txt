@@ -1,0 +1,7 @@
+[32mINFO    [0m root:api_wrapper.py:33 POST http://qa-scooter.praktikum-services.ru/api/v1/courier
+[32mINFO    [0m root:api_wrapper.py:35 Request: {'login': 'ifswiplquu', 'password': 'ghuxnvtash', 'firstName': 'tvvzgbjykq'}
+[32mINFO    [0m root:api_wrapper.py:36 Response [201]: {"ok":true}
+[32mINFO    [0m root:courier_factory.py:31 Created courier. Status: 201, Response: ok=True
+[32mINFO    [0m root:api_wrapper.py:33 POST http://qa-scooter.praktikum-services.ru/api/v1/courier/login
+[32mINFO    [0m root:api_wrapper.py:35 Request: {'login': 'ifswiplquu', 'password': 'hhxfnsnnrt'}
+[32mINFO    [0m root:api_wrapper.py:36 Response [404]: {"code":404,"message":"Учетная запись не найдена"}
